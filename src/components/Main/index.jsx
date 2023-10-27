@@ -1,13 +1,5 @@
-import Footer from "../Footer";
-import Header from "../Header";
-
 const Main = () => {
-  return (
-    <>
-      <Header />
-      <Footer />
-    </>
-  );
+  return <main className="container content"></main>;
 };
 
 export default Main;
