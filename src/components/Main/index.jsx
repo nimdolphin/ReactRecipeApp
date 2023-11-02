@@ -1,7 +1,5 @@
-import Header from "../Header";
-
 const Main = () => {
-  return <Header />;
+  return <main className="container content"></main>;
 };
 
 export default Main;
