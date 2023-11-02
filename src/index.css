@@ -51,3 +51,9 @@ iframe {
   display: block;
   margin: 0 auto;
 }
+
+.search-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
