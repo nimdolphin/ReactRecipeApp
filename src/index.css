@@ -16,7 +16,3 @@ nav {
   padding: 0 1rem;
 }
 
-.content {
-  min-height: calc(100vh - 70px - 56px);
-  padding: 1.5rem;
-}
